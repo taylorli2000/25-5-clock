@@ -1,4 +1,4 @@
-# 25-5-clock
+# 25-5 clock
 
 This is a web app that can set up a countdown timer with two intervals. You can use it to set up a timer for anything that involves two intervals. For example, you can use it to set up a work time and break interval.
 
